@@ -1,4 +1,6 @@
 
+// Source: https://github.com/godotengine/godot/blob/master/core/io/marshalls.cpp
+
 bitfield GodotVariantType {
 	padding: 15;
 	// `ENCODE_FLAG_OBJECT_AS_ID` is the same flag,
